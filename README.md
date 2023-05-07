@@ -41,5 +41,28 @@ $ ls
 $ python.py
 This will take too much time it's depends on your data connection.
 
-Visit on telegram Channel
+# TOOLS YOU INSTALL 
+python
+python2
+python2-dev
+python3
+git
+php
+perl
+bash
+nano
+curl
+openssl
+openssh
+wget
+clang
+help
+nmap
+w3m
+hydra
+ruby
+macchanger
+dnsutils
+coreutils
+host
 
