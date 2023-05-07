@@ -1,33 +1,37 @@
 # ETHIOPIA TERMUX USER
 # AWESOME TERMUX PACKAGE 
 
-If you are looking for basic packages of termux then this is right tool for you. Follow the given commands and install basic packages in termux. And This Tool is made for Termux beginner.And it's a very easy to use and install. This tool is coded in python .
+If you are looking for basic packages of termux then this is right tool for you. 
+Follow the given commands and install basic packages in termux. 
+And This Tool is made for Termux beginner 
+And it's a very easy to use and install. 
+This tool is coded in python
 
-Tool Installs This packages
-python
-python2
-python2-dev
-python3
-git
-php
-perl
-bash
-nano
-curl
-openssl
-openssh
-wget
-clang
-help
-nmap
-w3m
-hydra
-ruby
-macchanger
-dnsutils
-coreutils
-host
-This command for access the storage in termux termux-setup-storage.
+# Tool Installs This packages
+# python
+# python2
+# python2-dev
+# python3
+# git
+# php
+# perl
+# bash
+# nano
+# curl
+# openssl
+# openssh
+# wget
+# clang
+# help
+# nmap
+# w3m
+# hydra
+# ruby
+# macchanger
+# dnsutils
+# coreutils
+# host
+# This command for access the storage in termux termux-setup-storage.
 
 Installation
 Termux
@@ -40,29 +44,4 @@ $ chmod +x *
 $ ls
 $ python.py
 This will take too much time it's depends on your data connection.
-
-# TOOLS YOU INSTALL 
-python
-python2
-python2-dev
-python3
-git
-php
-perl
-bash
-nano
-curl
-openssl
-openssh
-wget
-clang
-help
-nmap
-w3m
-hydra
-ruby
-macchanger
-dnsutils
-coreutils
-host
 
